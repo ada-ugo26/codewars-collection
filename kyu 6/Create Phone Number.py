@@ -10,6 +10,6 @@ def create_phone_number(n):
     return f"({digits[0:3]}) {digits[3:6]}-{digits[6:]}"
 
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests

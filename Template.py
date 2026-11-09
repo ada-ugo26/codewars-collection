@@ -2,6 +2,6 @@
 
 # Solution
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests

@@ -15,6 +15,6 @@ def persistence(n):
     # if not, break number into digits and mulitply together and enter result back into function
 
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests

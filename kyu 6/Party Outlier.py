@@ -19,7 +19,7 @@ def find_outlier(integers):
     else:
         return evenNums[0]
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests
 

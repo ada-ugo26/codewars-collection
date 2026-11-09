@@ -16,7 +16,7 @@ def duplicate_encode(word):
     return "".join(newstr)
 
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests
 

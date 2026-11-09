@@ -22,6 +22,6 @@ def dir_reduc(arr):
     
     return arr
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests

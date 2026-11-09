@@ -18,6 +18,6 @@ def move_zeros(lst):
     return newlst
 
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests

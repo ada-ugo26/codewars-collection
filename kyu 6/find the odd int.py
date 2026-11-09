@@ -19,7 +19,7 @@ def find_it(seq):
         if value % 2 == 1:
             return key
 
-# Thoughs and alternatives
+# Thoughts and alternatives
 
 # Tests
 
